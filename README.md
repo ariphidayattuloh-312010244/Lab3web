@@ -79,3 +79,6 @@ akan terlihat perubahannya pada logo LOGIN
 ## Pertanyaan dan Tugas
 
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+
+![Gambar1](Screenshot/ss12.png) 
